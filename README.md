@@ -8,7 +8,8 @@ The portfolio goes beyond a traditional personal website by including an **inter
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** [YOUR_PORTFOLIO_URL](my-portfolio-ciew2iecy-yashwanth5619s-projects.vercel.app)
+🔗 **Portfolio:** 
+(my-portfolio-ciew2iecy-yashwanth5619s-projects.vercel.app)
 
 
 ---
