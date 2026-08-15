@@ -19,8 +19,6 @@
   •
   <a href="#-tech-stack">Tech Stack</a>
   •
-  <a href="#-local-setup">Setup</a>
-  •
   <a href="#-screenshots">Screenshots</a>
 </p>
 
