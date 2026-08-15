@@ -402,9 +402,9 @@ The portfolio is designed to demonstrate **how I build, solve problems, and appr
 
 **Software Developer | Problem Solver | Competitive Programmer**
 
-* 💻 GitHub: [YOUR_GITHUB_URL](https://github.com/Yashwanth5619)
-* 💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/yashwanth-devireddy-5115a129a)
-* 🌐 Portfolio: [Live Portfolio](https://my-portfolio-ciew2iecy-yashwanth5619s-projects.vercel.app)
+* 💻 GitHub: [Click](https://github.com/Yashwanth5619)
+* 💼 LinkedIn: [Click](https://www.linkedin.com/in/yashwanth-devireddy-5115a129a)
+* 🌐 Portfolio: [Click](https://my-portfolio-ciew2iecy-yashwanth5619s-projects.vercel.app)
 
 ---
 
