@@ -121,12 +121,6 @@ An interactive algorithm visualization environment that demonstrates algorithm e
 * ⚡ Real-time execution
 * 📊 Algorithm state visualization
 
-### Current Algorithm
-
-**Bubble Sort**
-
-The architecture is designed so additional algorithms can be added later.
-
 ---
 
 ## 📊 Competitive Programming Dashboard
@@ -345,143 +339,38 @@ The interface adapts to different screen sizes while preserving the core interac
 
 ## 🏠 Portfolio Home Page
 
-<img width="1886" height="851" alt="Portfolio Home Page" src="YOUR_SCREENSHOT_URL" />
+<img width="1917" height="859" alt="Screenshot 2026-08-15 140405" src="https://github.com/user-attachments/assets/10e0faba-2ee5-428a-a935-9041c6f05c07" />
 
 ---
 
 ## 🖥️ Interactive Developer Terminal
 
-<img width="1886" height="851" alt="Developer Terminal" src="YOUR_SCREENSHOT_URL" />
+<img width="1420" height="838" alt="Screenshot 2026-08-15 140538" src="https://github.com/user-attachments/assets/706f6d5d-8057-4646-96e3-ac00579de6b0" />
+
 
 ---
 
 ## 🧠 Algorithm Execution Sandbox
 
-<img width="1886" height="851" alt="Algorithm Sandbox" src="YOUR_SCREENSHOT_URL" />
+<img width="1495" height="851" alt="Screenshot 2026-08-15 140638" src="https://github.com/user-attachments/assets/583d4403-20c4-48f9-8a30-b5f40d843a5a" />
+
 
 ---
 
 ## 📊 Competitive Programming Dashboard
 
-<img width="1886" height="851" alt="Coding Statistics" src="YOUR_SCREENSHOT_URL" />
+<img width="1908" height="681" alt="Screenshot 2026-08-15 140816" src="https://github.com/user-attachments/assets/6dd3dbea-a014-4dda-a00b-37f0e3717313" />
+
 
 ---
 
 ## 💻 Projects Section
 
-<img width="1886" height="851" alt="Projects Section" src="YOUR_SCREENSHOT_URL" />
+<img width="1862" height="884" alt="Screenshot 2026-08-15 140758" src="https://github.com/user-attachments/assets/eefd7158-d83f-4b2a-89cb-05bc5c7a40d5" />
+
 
 ---
 
-## 🛠️ Admin Dashboard
-
-<img width="1886" height="851" alt="Admin Dashboard" src="YOUR_SCREENSHOT_URL" />
-
----
-
-# ⚙️ Local Setup
-
-## 1. Clone the Repository
-
-```bash
-git clone YOUR_REPOSITORY_URL
-
-cd YOUR_REPOSITORY_NAME
-```
-
-## 2. Install Dependencies
-
-```bash
-npm install --legacy-peer-deps
-```
-
-## 3. Configure Environment Variables
-
-Create a `.env` file in the project root:
-
-```env
-DATABASE_URL="file:./dev.db"
-ADMIN_PASSWORD="your_secure_password"
-```
-
-> ⚠️ Never commit `.env` files or expose production credentials.
-
-## 4. Initialize Prisma
-
-```bash
-npx prisma db push
-```
-
-Generate Prisma Client:
-
-```bash
-npx prisma generate
-```
-
-## 5. Start Development Server
-
-```bash
-npm run dev
-```
-
-Open:
-
-```text
-http://localhost:3000
-```
-
----
-
-# 🎨 Customization
-
-Most personal information is centralized inside:
-
-```text
-src/data/profile.ts
-```
-
-You can customize:
-
-* 👤 Personal information
-* 💻 Technical skills
-* 🚀 Projects
-* 💼 Experience
-* 🎓 Education
-* 🏆 Achievements
-* 🔗 Social profiles
-* 📊 Coding profiles
-* 📄 Resume information
-
----
-
-# 🗺️ Roadmap
-
-### Completed
-
-* [x] Modern responsive portfolio
-* [x] Interactive developer terminal
-* [x] Command palette
-* [x] Project showcase
-* [x] Admin dashboard
-* [x] Database integration
-* [x] Algorithm visualization
-* [x] Coding statistics
-
-### Planned
-
-* [ ] More algorithm visualizations
-* [ ] BFS / DFS visualizer
-* [ ] Dijkstra visualizer
-* [ ] Data structure playground
-* [ ] Automated GitHub statistics
-* [ ] Automated LeetCode statistics
-* [ ] Automated Codeforces statistics
-* [ ] Advanced analytics
-* [ ] Technical blog enhancements
-* [ ] PostgreSQL production support
-* [ ] Automated CI/CD
-
----
 
 # 🎯 Project Goals
 
@@ -513,10 +402,8 @@ The portfolio is designed to demonstrate **how I build, solve problems, and appr
 
 **Software Developer | Problem Solver | Competitive Programmer**
 
-* 💻 GitHub: [YOUR_GITHUB_URL](YOUR_GITHUB_URL)
-* 🧠 LeetCode: [YOUR_LEETCODE_URL](YOUR_LEETCODE_URL)
-* 🏆 Codeforces: [YOUR_CODEFORCES_URL](YOUR_CODEFORCES_URL)
-* 💼 LinkedIn: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
+* 💻 GitHub: [YOUR_GITHUB_URL](https://github.com/Yashwanth5619)
+* 💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/yashwanth-devireddy-5115a129a)
 * 🌐 Portfolio: [Live Portfolio](https://my-portfolio-ciew2iecy-yashwanth5619s-projects.vercel.app)
 
 ---
